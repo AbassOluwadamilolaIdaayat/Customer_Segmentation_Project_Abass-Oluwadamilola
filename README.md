@@ -1,0 +1,2 @@
+# Customer_Segmentation_Project_Abass-Oluwadamilola
+Project on Customer Segmentation
